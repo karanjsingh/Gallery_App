@@ -12,6 +12,7 @@
 <ul>
     <li>Django</li>
     <li>django-crispy-forms</li>
+    <li>Redis Caching</li>
     <li>Pillow</li>
 </ul>
  
